@@ -9,9 +9,9 @@ int W = 400;
 void setup() {
   size(W, W);   myBus = new MidiBus(this, 0,1);
 
-  iniFont = createFont("Fedra-Serif-A-Pro-Book.ttf",W*3/4);  // INPUT FONT
+  iniFont = createFont("fontSource.ttf",W*3/4);  // INPUT FONT
   textAlign(CENTER, CENTER);
-  f = new Fontastic(this, "test B");                        // OUTPUT FONT
+  f = new Fontastic(this, "output");             // OUTPUT FONT
   f.setAuthor("FontBuilder_Grey-Scott-model");  
   f.setFontFamilyName("GreyScott");
   f.setVersion("0.1");  
