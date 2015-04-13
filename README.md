@@ -9,6 +9,8 @@ Garder l'arborescence tel quel pour lancer fontBuilder.pde avec processing 2.xx
   fontBuilder/code/
 </pre>
 
-
+mettre la fonte à modifier dans data/ et la renommer "fontSource.ttf".
+<br/>
+Par défaut la fonte crée apparaitra dans data/output/bin/
 
 
