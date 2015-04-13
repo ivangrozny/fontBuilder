@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>DOLLAR_SIGN</title>
+<unicode>24</unicode>
+<advanceWidth>316.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="266.0" y="80.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="264.0" y="66.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="262.0" y="58.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="258.0" y="48.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="256.0" y="44.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="170.0" y="-90.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="168.0" y="-92.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="140.0" y="-92.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="138.0" y="-90.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="22.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="26.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="46.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="60.0" y="242.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="64.0" y="254.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="70.0" y="266.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="138.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="140.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="168.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="170.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="250.0" y="286.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="252.0" y="282.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="254.0" y="276.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="266.0" y="88.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

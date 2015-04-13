@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>MICRO_SIGN</title>
+<unicode>b5</unicode>
+<advanceWidth>372.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="352.0" y="18.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="348.0" y="14.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="104.0" y="-122.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="-122.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="-120.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="98.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="304.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="54.0" y="306.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="280.0" y="306.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="282.0" y="304.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="350.0" y="40.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="352.0" y="28.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

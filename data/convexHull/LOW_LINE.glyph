@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LOW_LINE</title>
+<unicode>5f</unicode>
+<advanceWidth>280.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="280.0" y="-88.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="278.0" y="-90.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="0.0" y="-90.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="-2.0" y="-88.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="-2.0" y="-56.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="0.0" y="-54.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="278.0" y="-54.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="280.0" y="-56.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LATIN_CAPITAL_LETTER_T</title>
+<unicode>54</unicode>
+<advanceWidth>354.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="350.0" y="306.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="268.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="266.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="88.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="86.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="2.0" y="306.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="2.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="4.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="348.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="350.0" y="396.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

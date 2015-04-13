@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>HYPHEN-MINUS</title>
+<unicode>2d</unicode>
+<advanceWidth>214.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="184.0" y="146.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="182.0" y="144.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="28.0" y="144.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="26.0" y="146.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="26.0" y="178.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="30.0" y="182.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="98.0" y="186.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="170.0" y="190.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="182.0" y="190.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="184.0" y="188.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

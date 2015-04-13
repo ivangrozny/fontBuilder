@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>EQUALS_SIGN</title>
+<unicode>3d</unicode>
+<advanceWidth>336.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="302.0" y="100.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="300.0" y="98.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="34.0" y="98.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="32.0" y="100.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="32.0" y="134.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="34.0" y="136.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="300.0" y="136.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="302.0" y="134.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="302.0" y="204.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="300.0" y="202.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="34.0" y="202.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="32.0" y="204.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="32.0" y="238.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="34.0" y="240.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="300.0" y="240.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="302.0" y="238.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

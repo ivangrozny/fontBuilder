@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LATIN_CAPITAL_LETTER_E</title>
+<unicode>45</unicode>
+<advanceWidth>358.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="336.0" y="88.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="334.0" y="70.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="326.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="324.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="22.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="20.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="14.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="26.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="24.0" y="386.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="26.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="30.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="310.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="312.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="336.0" y="92.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

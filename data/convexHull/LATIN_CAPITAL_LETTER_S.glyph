@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LATIN_CAPITAL_LETTER_S</title>
+<unicode>53</unicode>
+<advanceWidth>320.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="292.0" y="90.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="290.0" y="80.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="286.0" y="68.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="280.0" y="56.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="276.0" y="50.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="270.0" y="42.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="258.0" y="30.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="250.0" y="24.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="238.0" y="16.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="226.0" y="10.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="216.0" y="6.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="204.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="196.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="176.0" y="-4.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="154.0" y="-6.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="128.0" y="-6.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="106.0" y="-4.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="92.0" y="-2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="80.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="62.0" y="4.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="48.0" y="8.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="36.0" y="12.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="24.0" y="18.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="22.0" y="20.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="22.0" y="52.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="24.0" y="94.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="36.0" y="302.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="38.0" y="312.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="40.0" y="320.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="44.0" y="332.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="46.0" y="336.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="346.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="56.0" y="352.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="78.0" y="374.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="86.0" y="380.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="96.0" y="386.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="108.0" y="392.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="126.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="134.0" y="400.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="146.0" y="402.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="206.0" y="402.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="224.0" y="400.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="236.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="246.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="254.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="272.0" y="388.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="276.0" y="386.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="280.0" y="382.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="292.0" y="128.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

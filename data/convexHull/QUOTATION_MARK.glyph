@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>QUOTATION_MARK</title>
+<unicode>22</unicode>
+<advanceWidth>244.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="206.0" y="422.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="194.0" y="312.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="192.0" y="294.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="188.0" y="290.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="152.0" y="290.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="150.0" y="292.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="150.0" y="422.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="152.0" y="424.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="204.0" y="424.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="98.0" y="412.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="96.0" y="392.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="86.0" y="296.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="84.0" y="292.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="82.0" y="290.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="46.0" y="290.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="44.0" y="292.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="44.0" y="422.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="46.0" y="424.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="96.0" y="424.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="98.0" y="422.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

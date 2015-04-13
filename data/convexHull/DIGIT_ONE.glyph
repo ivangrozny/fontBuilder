@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>DIGIT_ONE</title>
+<unicode>31</unicode>
+<advanceWidth>246.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="234.0" y="12.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="232.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="230.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="30.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="28.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="26.0" y="12.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="270.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="298.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="20.0" y="302.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="68.0" y="308.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="136.0" y="316.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="150.0" y="316.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="152.0" y="314.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="234.0" y="30.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

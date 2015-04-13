@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>CIRCUMFLEX_ACCENT</title>
+<unicode>5e</unicode>
+<advanceWidth>304.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="262.0" y="168.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="260.0" y="166.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="38.0" y="166.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="36.0" y="168.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="36.0" y="172.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="210.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="96.0" y="314.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="124.0" y="380.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="130.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="134.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="176.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="178.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="262.0" y="172.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

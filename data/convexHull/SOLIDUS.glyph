@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>SOLIDUS</title>
+<unicode>2f</unicode>
+<advanceWidth>206.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="188.0" y="428.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="94.0" y="100.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="56.0" y="-32.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="54.0" y="-34.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="-34.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="-32.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="-30.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="52.0" y="96.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="144.0" y="416.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="148.0" y="428.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="152.0" y="432.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="186.0" y="432.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="188.0" y="430.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

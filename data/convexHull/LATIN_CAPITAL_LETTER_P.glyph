@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LATIN_CAPITAL_LETTER_P</title>
+<unicode>50</unicode>
+<advanceWidth>346.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="332.0" y="272.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="330.0" y="252.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="326.0" y="236.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="324.0" y="230.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="316.0" y="214.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="196.0" y="4.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="192.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="22.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="20.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="12.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="382.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="20.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="24.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="210.0" y="398.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="234.0" y="396.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="244.0" y="394.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="252.0" y="392.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="264.0" y="388.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="274.0" y="384.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="278.0" y="382.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="290.0" y="374.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="310.0" y="354.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="314.0" y="348.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="320.0" y="338.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="324.0" y="328.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="326.0" y="322.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="328.0" y="314.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="330.0" y="304.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="332.0" y="284.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<glyphElement>
+<head>
+<title>LATIN_SMALL_LETTER_H</title>
+<unicode>68</unicode>
+<advanceWidth>400.0</advanceWidth>
+<author>Nobody</author>
+<copyright>2004</copyright>
+<fontFamily>temp</fontFamily>
+<fontSubFamily>Regular</fontSubFamily>
+<license>All rights reserved.</license>
+<global/>
+<local/>
+</head>
+<body>
+<contour type="cubic">
+<contourPoint type="on">
+<point2d x="382.0" y="6.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="380.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="378.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="30.0" y="0.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="28.0" y="2.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="392.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="16.0" y="414.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="18.0" y="416.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="22.0" y="418.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="30.0" y="420.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="50.0" y="424.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="62.0" y="426.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="76.0" y="428.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="112.0" y="428.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="116.0" y="426.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="300.0" y="300.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="316.0" y="284.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="320.0" y="278.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="322.0" y="274.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="326.0" y="262.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="328.0" y="254.0"/>
+</contourPoint>
+<contourPoint type="on">
+<point2d x="382.0" y="30.0"/>
+</contourPoint>
+</contour>
+<contour type="cubic"/>
+</body>
+</glyphElement>
