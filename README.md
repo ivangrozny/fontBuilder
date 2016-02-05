@@ -1,5 +1,5 @@
 
-<h2> algorithmic tool for font modifications </h2>
+<h2> algorithmic tool for font modifications with reaction-diffusion algorithm</h2>
 
 Garder l'arborescence tel quel pour lancer fontBuilder.pde avec processing 2.xx 
 
