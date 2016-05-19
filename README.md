@@ -13,7 +13,7 @@ mettre la fonte à modifier dans data/ et la renommer "fontSource.ttf".
 <br/>
 Par défaut la fonte crée apparaitra dans data/output/bin/
 
-
+<pre>
 KEYBOARD INTERFACE DOCUMENTATION
 sliders :    
   + - 
@@ -37,3 +37,4 @@ active/desactive :
   N
  CTRL - l'édition du text de prévisualisation au clavier
 SPACE - exporte la fonte TTF
+</pre><
